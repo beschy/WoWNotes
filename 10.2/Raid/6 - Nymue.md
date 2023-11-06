@@ -12,28 +12,71 @@ Be careful crossing the dream lines in this room, as they leave a stacking dot. 
 ##### Core Mechanics
 
 ###### Phase 1:
+**Verdant Matrix** - Glowing green lines that are all around the arena.  Crossing them applies a stacking dot for 3 seconds.
+	![[Pasted image 20231106151950.png]]
+	![[Pasted image 20231106152026.png]]
+
+**Weaver's Burden** - Debuff causing players to detonate after a short delay damaging nearby players and dropping a Barrier Blossom.  Grants inflorescence.  Tanks use this in P2 to lead the way to the adds.
+	![[Pasted image 20231106154249.png]]
+
+**Surging Growth** - Small flowers that must be stood on for a few seconds to minimize raid damage.  These will explode in mythic via Reclamation.
+	![[Pasted image 20231106153004.png]]
+
+**Inflorescence** - Players drop grass at their feet for 4 seconds, allowing others to walk unharmed through matrix lines.
+	![[Pasted image 20231106153655.png]]
 
 
 ###### Phase 2
 
+**Full Bloom** - At 100 energy, the boss becomes immune and explodes with a green circle around them inflicting large damage and applying Inflorescence.  Will then summon two Cycle Wardens.
+	![[Pasted image 20231106153348.png]]
+
+
 
 ##### **Tank Notes**
-Weaver's Burden
 
-Threaded Blast
+**Weaver's Burden** - Debuff causing players to detonate after a short delay damaging nearby players and dropping a Barrier Blossom.  Grants inflorescence.  Use this in P2 to lead the way to the adds.
+	![[Pasted image 20231106154249.png]]
 
-Verdant Rend
+
+**Threaded Blast** - Tank buster of Physical and nature damage.
+	![[Pasted image 20231106154451.png]]
+
+
 
 ##### Shit to Avoid
+* Don't cross Verdant Matrix without Inflorescence
 
+**Impending Doom** - Glowing beams that shoot out from boss, stunning and damaging players in contact.
+	![[Pasted image 20231106154749.png]]
+	![[Pasted image 20231106154719.png]]
 
+**Radial Flourish** - Big lines, don't touch.
+	![[Pasted image 20231106154957.png]]
+
+**Lumbering Slam** - Big frontal 
+	![[Pasted image 20231106155137.png]]
 
 ##### Mythic Changes
 
 ###### Phase 1:
 
+**Ephemeral Flora** - Red Circle that must be soaked by players.
+	![[Pasted image 20231106152311.png]]
+
+
+**Reclamation** - 3 Seconds after **Ephemeral Floral**  or **Surging Growth** is soaked, it explodes in an area within 10 yards.  
+		![[Pasted image 20231106152727.png]]
 
 ###### Phase 2:
+
+**Manifested Dream** - an add that spawns with a large green circle **Waking Decimation**.  While in the circle you take ticking damage - **Lucid Miasma**.  Players outside of the miasma have their visibility obscured (Unable to target players or creatures).  Only able to go inside Lucid Miasma once as players receive **Lucid Vulnerability** for 5 minutes.
+	![[Pasted image 20231106151232.png]]
+	![[Pasted image 20231106151252.png]]
+	![[Pasted image 20231106151317.png]]
+
+
+
 
 ##### Build Recommendations
 Monk
