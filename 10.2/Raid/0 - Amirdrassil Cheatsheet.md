@@ -15,8 +15,11 @@
 
 ##### Written
 [Questionably Epic Raid Guide](https://questionablyepic.com/amirdrassil-the-dreams-hope-raid/)
+
 [The Raiders Guide](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYjx76Raf23AgxMFiMNGGJ6EaTx5A7F7m04cqsdds_5XCWkCZrknunpcdBGMeIanGd7xQwmb2TDCtl/pubhtml)
+
 [Larias' Raider Guide](https://docs.google.com/document/d/1hTIQA-kHjetiRxJmf9ssCSI2fNg-ZaviWSPr_MkzZFo/edit)
+
 
 
 
