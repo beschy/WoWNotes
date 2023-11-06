@@ -1,13 +1,13 @@
 
-![[Pasted image 20231105184536.png]]
 
-![[Pasted image 20231105184436.png]]
+![Pasted image 20231105184436.png](https://wow.zamimg.com/uploads/screenshots/normal/1126484.png)
+
 
 
 Videos
-[Amirdrassil Boss Preview (Ready Check Pull )](https://www.youtube.com/watch?v=yGX_AvsdqB8)
-[Limit Maximum Going over bosses](https://youtu.be/fK8nrXM8eeY)
-[Tactyks Raid Testin and First Throughts](https://www.youtube.com/watch?v=rY7rRQGvf4I)
+![Amirdrassil Boss Preview (Ready Check Pull )](https://www.youtube.com/watch?v=yGX_AvsdqB8)
+![Limit Maximum Going over bosses](https://youtu.be/fK8nrXM8eeY)
+![Tactyks Raid Testin and First Throughts](https://www.youtube.com/watch?v=rY7rRQGvf4I)
 
 
 Written
