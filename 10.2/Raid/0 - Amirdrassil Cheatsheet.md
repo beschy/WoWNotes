@@ -5,7 +5,7 @@
 
 
 ##### Videos
-[![Amirdrassil Boss Preview (Ready Check Pull )](https://www.youtube.com/watch?v=yGX_AvsdqB8)]
+![Amirdrassil Boss Preview (Ready Check Pull )](https://www.youtube.com/watch?v=yGX_AvsdqB8)
 
 ![Limit Maximum Going over bosses](https://youtu.be/fK8nrXM8eeY)
 
