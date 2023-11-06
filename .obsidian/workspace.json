@@ -1,0 +1,307 @@
+{
+  "main": {
+    "id": "b93b4673dec85dd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d217494f9334d9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c0c26a5de9659d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Customizations/Druid Form Customizations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21e9dc777f014409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raid/1 - Gnarlroot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c73aa47efff99302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raid/3 - Volcoross.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "434a7a6271f43115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raid/3 - Volcoross.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dae3d25ce86cbd8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raid/4 - Larodar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58450b5e49092b1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raid/5 - Council of Dreams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c538b5718ad4e7c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raid/6 - Nymue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bdac6ad14f830de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raid/7 - Smolderon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27ad7702e87bc441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raid/8 - Tindral.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e65c7407254f3e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raid/2 -Igira the Cruel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a96d37343a01e12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raid/3 - Volcoross.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6144eb28c67c3997",
+    "type": "split",
+    "children": [
+      {
+        "id": "9da28f0706f3d154",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79436450502c8278",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ba93e2df6356ea3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71bd180b23b365f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84cf3d43d7422243",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb37e61f445943f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c1375a45ffddd8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Raid/3 - Volcoross.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a518275016fbaeff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Raid/3 - Volcoross.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1298038416c0fbc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b7a5cc21508cee7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Raid/3 - Volcoross.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0a96d37343a01e12",
+  "lastOpenFiles": [
+    "Raid/2 -Igira the Cruel.md",
+    "Raid/3 - Volcoross.md",
+    "Raid/1 - Gnarlroot.md",
+    "().md",
+    "M+/Waycrest Manor.md",
+    "M+/Throne of the Tides.md",
+    "M+/The Everbloom.md",
+    "M+/zM+ Guides.md",
+    "M+/DOTI Murozond's Rise.md",
+    "M+/DOTI Galakrond's Fall.md",
+    "M+/Darkheart Thicket.md",
+    "M+/Black Rock Hold.md",
+    "Raid/9 - Fyrakk.md",
+    "Pasted image 20231102232305.png",
+    "Raid/8 - Tindral.md",
+    "Pasted image 20231102232215.png",
+    "Raid/7 - Smolderon.md",
+    "Pasted image 20231102232147.png",
+    "Raid/6 - Nymue.md",
+    "Pasted image 20231102232119.png",
+    "Raid/5 - Council of Dreams.md",
+    "Raid/4 - Larodar.md",
+    "Pasted image 20231102232042.png",
+    "Pasted image 20231102231916.png",
+    "Pasted image 20231102231835.png",
+    "Pasted image 20231102231736.png",
+    "Pasted image 20231102231554.png",
+    "Raid/Raid Guides.md",
+    "Customizations/Druid Form Customizations.md",
+    "Gearing/Tank Gear List.md",
+    "Gearing/Gearing Guide.md",
+    "M+/M+ Guides.md",
+    "M+/Atal'Dazar.md",
+    "Pasted image 20231102144317.png.md"
+  ]
+}
