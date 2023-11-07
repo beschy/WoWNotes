@@ -5,4 +5,8 @@
 
 
 
+
+![WoW Gearing in 10.2 by Dalaran Gaming](https://www.youtube.com/watch?v=C5t0lp2gXIA&pp=ygUPMTAuMiB3aGF0IHRvIGRv)
+
+
 ![Gearing up guide by LazyBeast Gaming](https://www.youtube.com/watch?v=FVDI_vYmz6M&pp=ygUSMTAuMiBjbGFzcyBjaGFuZ2Vz)
