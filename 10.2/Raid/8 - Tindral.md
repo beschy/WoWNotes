@@ -49,7 +49,7 @@ Adds P1 & P2 Mechanics, Kill boss before he casts Supernova.
 
 
 **Searing Wrath** - Boss Melee Swings inflict a stacking fire Dot for 20 Seconds.   
-	
+	![[Pasted image 20231107150420.png]]
 
 ##### Shit to Avoid
 
