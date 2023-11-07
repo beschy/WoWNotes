@@ -12,12 +12,74 @@ Chase Tindral around Amirdrassil on your dragons, interrupting his attempts to d
 
 ##### Core Mechanics
 
+###### Phase 1: Boomkin Form
+
+Mass Entanglement - All players are rooted and take damage.  Must be destroyed or removed.
+	![[Pasted image 20231106181446.png]]
+	![[Pasted image 20231106181343.png]]
+
+
+
+###### Intermission
+
+Grab an Empowered Feather, start Dragonriding
+![[Pasted image 20231106183435.png]]
+
+Dodge Firebombs, Collect Dream Essence (Green Orbs)
+![[Pasted image 20231106183510.png]]
+
+###### Phase 2:  Tree Form
+
+**Supernova** - When you land, kill the shield to stop Supernova Casts
+	![[Pasted image 20231106183719.png]]
+
+
+
+###### Intermission 2
+Same as intermission 1, adds moving flame.
+
+###### Phase 3:   Kill or be Killed
+Adds P1 & P2 Mechanics, Kill boss before he casts Supernova.
+
 
 ##### **Tank Notes**
 
+**Blazing Mushroom** - A big mushroom spawns that needs to be soaked by tanks.  Each mushroom will explode after 3 seconds.   Alternate soaking mushrooms.
+	![[Pasted image 20231106182500.png]]
+
+
+**Searing Wrath** - Boss Melee Swings inflict a stacking fire Dot for 20 Seconds.   
+	
+
 ##### Shit to Avoid
 
+
+Falling Star - Spread out circles then dodge the star fragment swirlies that are left over.
+	![[Pasted image 20231106182805.png]]
+	![[Pasted image 20231106182736.png]]
+	![[Pasted image 20231106182906.png]]
+
+
+**Fire Beam** - Several moving beams of fire shoot out from an explosion location dealing massive damage.
+	![[Pasted image 20231106183045.png]]
+	![[Pasted image 20231106181058.png]]
+
+
+###### Intermission 
+**Fire Bombs** - 
+![[Pasted image 20231106181034.png]]
+
 ##### Mythic Changes
+
+Dispelling Fiery Growth causes raid wide damage for 3 seconds
+	![[Pasted image 20231106182627.png]]
+	![[Pasted image 20231106182607.png]]
+
+Tanks must now soak an additional mushroom - Poisonous Mushroom and manage debuffs.  Still alternate mushroom soaks, can't take the same type of mushroom.
+
+
+Players must catch bombs by dragonriding through them.
+
 
 ##### Build Recommendations
 Monk

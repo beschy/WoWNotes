@@ -72,6 +72,7 @@ Heroic
 [Volcoross Heroic Guide by Team LIquid](https://www.youtube.com/watch?v=4H6MpNCmBVI&pp=ygUJdm9sY29yb3Nz)
 [Volcoross Guide - Heroic by ScruffyGG](https://www.youtube.com/watch?v=SEMXldZ1xsQ&pp=ygUJdm9sY29yb3Nz)
 [Volcoross Heroic Boss Guide by Zesty Guides](https://www.youtube.com/watch?v=EgWIj0bc5Jw&pp=ygUJdm9sY29yb3Nz)
+[Voilcoross 2 Minute Boss Guide by GaleaGGTV](https://www.youtube.com/watch?v=m7OnAroCO8Y&pp=ygUJdm9sY29yb3Nz)
 
 
 ##### POVs

@@ -64,6 +64,9 @@ Heroic and Normal
 [Gnarlroot Guide for Lazy Raiders by Quazii WoW](https://www.youtube.com/watch?v=w5xG0Ff36Tc&pp=ygUJZ25hcmxyb290)
 [Gnarlroot Heroic Raid Guide by Zesty Guides](https://www.youtube.com/watch?v=GTQFuauII5I&pp=ygUJZ25hcmxyb290)
 [Full Mechanics Breakdown by GingiTV](https://www.youtube.com/watch?v=wNGnMypfrpw&pp=ygUJZ25hcmxyb290)
+[TLDR Gnarlroot Heroic Boss Guide by BrettStefani](https://www.youtube.com/watch?v=1qrE8_vhNJI&pp=ygUJR25hcmxyb290)
+[Gnarlroot Heroic Boss Guide by Sugarvenom_LYL](https://www.youtube.com/watch?v=lmPFV38atrQ&pp=ygUJR25hcmxyb290)
+
 
 
 ##### POVs
