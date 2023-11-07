@@ -18,8 +18,6 @@
 
 ##### Routes
 
-
-
 ##### POVs
 [Equinox DH POV](https://www.twitch.tv/videos/1963397387?t=0h46m43s)
 [Equinox DH POV#2](https://www.twitch.tv/videos/1963397387?t=3h48m55s)

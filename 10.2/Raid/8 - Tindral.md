@@ -6,9 +6,20 @@
 **Useful utilities:** Tiger’s Lust, Hand of Freedom, Roars/Speed Totem, Personal Root removal abilities, experience with Super Mario games.
 **Hero/Lust usage:** Phase 3
 
-**Tank Notes**
 
-###### Build Recommendations
+**Summary**
+Chase Tindral around Amirdrassil on your dragons, interrupting his attempts to drop a dying star to destroy the tree. Chaotic amounts of mechanics will meet you at every phase as the boss tries to race you to the end of the world.
+
+##### Core Mechanics
+
+
+##### **Tank Notes**
+
+##### Shit to Avoid
+
+##### Mythic Changes
+
+##### Build Recommendations
 Monk
 DH
 Druid
