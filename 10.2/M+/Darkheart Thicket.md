@@ -12,6 +12,9 @@
 
 ##### POVs
 
+[Equinox Darkheart Thicket PTR + 28 - VDH](https://www.twitch.tv/videos/1962707730?t=2h22m10s)
+[Dorki Darkheart THicket PTR +27 - VDH](https://www.twitch.tv/videos/1962653018?t=0h13m36s)
+
 
 ##### Bosses
 

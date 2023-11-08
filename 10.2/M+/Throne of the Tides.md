@@ -13,6 +13,10 @@
 
 ##### POVs
 
+[Equinox TOtT PTR Key VDH](https://www.twitch.tv/videos/1963397387?t=4h53m5s)
+[Equinox TOtT PTR Key VDH +25](https://www.twitch.tv/videos/1962707730?t=0h28m25s)
+[Dorki TOtT +27 PTR Key VDH](https://www.twitch.tv/videos/1966833846?t=8h3m27s)
+
 
 ##### Bosses
 

@@ -14,7 +14,10 @@
 
 ##### POVs
 
-
+[Equinox PTR Waycrest - VDH](https://www.twitch.tv/videos/1963397387?t=1h33m3s)
+[Equinox PTR Waycrest - Brew](https://www.twitch.tv/videos/1963397387?t=5h35m28s)
+[Equinox PTR Waycrest +26 - VDH](https://www.twitch.tv/videos/1962707730?t=1h8m9s)
+Dorki PTR Waycrest +20 - VDH
 ##### Bosses
 
 

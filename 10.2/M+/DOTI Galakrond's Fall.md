@@ -11,6 +11,8 @@
 
 ##### POVs
 
+[Equinox DOTI:GF PTR Keys - Brew](https://www.twitch.tv/videos/1963397387?t=6h1m7s)
+
 
 ##### Bosses
 
